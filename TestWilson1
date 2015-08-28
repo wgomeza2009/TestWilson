@@ -1,0 +1,19 @@
+1.	Android / Cliente 
+
+–	El Material de diseño que se propone es “the metaphor”, que permite una interfaz gráfica, enfocada en los aspectos visuales y dan la sensación 3D en su presentación. Este diseño permite actividades (pantallas) donde el usuario mantiene su atención en los objetos y las animaciones, esta consideración es importante, teniendo en cuenta que los pequeños productores agropecuarios, aprenden mejor con información visual como: imágenes, videos, que con la lectura de textos. 
+ 
+
+–	Color: Orange Referencia 900 #E6510. La paleta de colores se encuentra en la Guía de Diseño Android 4.0
+–	El tipo de animación que se adapta para el manejo de contenidos visuales de capacitación en temas agropecuarios, es “Entrances and exits”, la cual a diferencia de las otras animaciones, esta no es simétrica y permite mayor interacción por parte del usuario
+–	La presentación de los iconos deben ser “The System icons”, debido a que esta sería una aplicación no comercial y su distribución espacial es de acuerdo a la cuadricula de la pantalla y su proporción siguiendo la recomendación “Grid, proportion, and size”
+ 
+–	Con respecto a las imágenes, es importante guardar las recomendaciones de diseño de la Guía.
+–	Revisar las demás recomendaciones que la guía menciona en temas como: 
+	Layout
+	Components
+	Patterns
+	Usability
+	Resources
+
+–	Otras consideraciones:
+De acuerdo a mi experiencia, los pequeños agricultores aprenden mejor haciendo, o por medio de ejemplos que son parecidos a su realidad y con los cuales establecer una identificación. Con contenidos temáticos cortos que no duren en video más de 15 minutos.  Es importante contar con la población joven rural, en el aprendizaje, en el uso de éstas tecnologías y las Apps desarrolladas, que sirvan de puente entre la tecnología y la población adulta que supere los 40 años; en general las personas que se encuentran por encima de este rango de edad tienen dificultades en la apropiación de las tecnologías modernas. 
