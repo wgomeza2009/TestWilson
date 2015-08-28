@@ -1,0 +1,107 @@
+3.	Algorithms
+
+a)	CD para Back up
+
+// se importan las librerías
+void main()
+{
+      // Datos de entrada
+      	float gb;
+  	float mb;
+
+      // Datos de salida
+      float cd;
+
+      // Proceso
+System.out.println("El usuario ingresa el valor en gb o mb del espacio requerido para hacer el Back up");
+      // Los datos ingresados por el usuario y almacenan en memoria
+      // Se convierte los GB en MB
+      mb = gb * 1024;
+      // Se calcula la cantidad de CDs
+      CDs = mb / 700;
+      // Se muestra la cantidad de CDs a utilizar
+      System.out.println("La cantidad de Cds a utilizar en el respaldo es : %f ",cd);
+}
+b)	Pago de horas extras
+
+// Se define una clase que guarde los valores de las variables
+Public Class Pago
+{
+	//Atributos
+	Integer horas_Trabajada;
+	Integer horas_Adicional;
+	Float tarifa_Hora;
+	Integer Tarifa_HoraAdicion;
+Integer Pago;
+Static final Incemen = 0.5; 
+//Se declara un método que calcule el pago
+Int calculapago(integer, a , b){
+	//Se declara una sentencia if para evaluar las horas extras y su valor
+		If (Integer hora_Trabajada > 40)
+		{
+			Horas_Adicional = hora_Trabajada – 40;
+			Tarifa_HoraAdicion = tarifa_Hora * (1+Incremen);
+			Pago = (tarifa_Hora * 40) + (Horas_Adicional * Tarifa_HoraAdicion);  
+
+		Else
+			Pago = horas_Trabajada * tarifa_Hora;
+}
+Return Pago
+}
+}
+public static void main (String [ ] args) {
+
+// Se captura el valor de las horas trabajadas
+// Se almacena en memoria
+// Se asigna a la variable horas_Trabajada
+// Se pasa al método por parámetros
+
+// Se captura el valor de la tarifa por horas trabajadas
+// Se almacena en memoria
+// Se asigna a la variable tarifa_Hora
+// Se pasa al método por parámetros
+
+//Se ejecuta el método calculapago
+
+Calculapago;
+
+// Se imprime por pantalla el valor del pago
+
+}
+
+c)	Juego del Ahorcado 
+
+Programa Ahorcado es
+// Clase Ahorcado 
+Declaración de los atributos de clase
+// Se declara un arreglo de caracteres con una lista de palabras para ser luego 
+// Se declara una lista vacía para almacenar las palabras que ingresa el usuario
+// Se declara un Contador numérico de los intentos que el usuario realiza para adivinar la palabra
+
+
+Métodos:
+// MuestraPalabra (Arreglo de caracteres), para generar las letras que dan la pista para adivinar la palabra 
+// EligePalabra() utiliza el random de la clase math para elegir una palabra del método MuestraPalabra. El juego queda iniciado para dicha palabra y lo guarda en una variable 
+// PalabraUsuario (). Este método almacena los caracteres del usuario en un arreglo y los agrupa para generar la palabra del usuario que considera es la correcta
+// ComparaLista (). Este método compara la palabra del método EligePalabra con PalabraUsuario y genera un valor boolean de acierto o desacierto 
+
+// RestableceLista() No devuelve nada y deja la lista de palabras preparada para ser utilizada de nuevo y volver a seleccionar una palabra de forma aleatoria. 
+// CopiaLista() No devuelve nada. Al ser llamado hace una copia de la lista original en una lista auxiliar. 
+Fin de Clase Ahorcado
+
+// Se declara la Clase ListaPalabras 
+// Se declara las Propiedades de clase: 
+// GuardaPalabra: arreglo de caracteres, permitirá guardar en cada uno de sus elementos una palabra o frase de la lista
+// Se declaran los métodos: 
+// LimpiaLista() No devuelve nada, al ser llamado limpia la lista
+// PalabraAleatoria() Retorna una cadena de caracteres, al ser ejecutado, selecciona de manera aleatoria una palabra, la quita de la lista y la devuelve (la quita de la lista para que no se repita una misma palabra durante una sesión de juegos). 
+Fin de clase ListaPalabras
+
+Programa Principal    // utilizando componentes gráficos 
+// Se instancian las clases para poder usarlas
+// Se llama el método MuestraPalabra
+// Se ejecuta el método EligePalabra 
+// Se ejecuta el método PalabraUsuario
+// Se ejecuta ComparaLista
+// Se almacenan en los arreglos
+Fin de programa principal
